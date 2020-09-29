@@ -1,6 +1,6 @@
 # floor_calculator
 
-A new Flutter project.
+A new Flutter project developed in the discipline of Mobile Device Programming, Analysis and Systems Development course - FATEC Americana.
 
 ## Getting Started
 
